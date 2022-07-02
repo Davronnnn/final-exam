@@ -14,9 +14,7 @@ input.addEventListener('keyup', (e) => {
 		result.forEach((question) => {
 			answer.innerHTML += `
             <div class='answer'>
-                <p class='answer-question'>${
-					question.number !== '' ? question.number : question.source
-				} ${question.question}</p>
+                <p class='answer-question'>${question.number} ${question.question}</p>
                 <li> <strong> Javob:</strong> ${question.answer}</li>
             </div>`;
 		});

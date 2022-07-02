@@ -34,10 +34,26 @@ form {
 	margin: 0 auto;
 	margin-bottom: 30px;
 }
+label {
+	font-size: 36px;
+}
+input {
+	font-size: 24px;
+	padding: 5px;
+	border: 1px solid #d0d0d0;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #d0d0d0;
+	box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+		rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
 .answer {
 	margin: 10px 0;
 }
 .answer-question {
 	font-weight: 900;
 	word-wrap: break-word;
+}
+.answer li {
+	margin-left: 20px;
 }
