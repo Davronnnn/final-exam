@@ -1,0 +1,2032 @@
+[
+  {
+    "number": "1.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Svoping bu?",
+    "answer": "#jarayonlarni asosiy xotiradan diskka va orqaga to'liq o'tkazishdir",
+    "var2": "jarayonlarni fleshkaga o'tkazish",
+    "var3": "jarayonlarni operativ xotirada ushlab turish",
+    "var4": "jarayonlarni diskka o'tkazish"
+  },
+  {
+    "number": "2.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "NTFS fayllik tizimi nechta bitli prottsessor-lar bilan ishlaydi?",
+    "answer": "# 16 va 32",
+    "var2": "8 va 16",
+    "var3": "32",
+    "var4": "16"
+  },
+  {
+    "number": "3.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Jarayonni rejalashtirish darajalari",
+    "answer": "#uzoq muddatli, o'rta muddatli va qisqa muddatli",
+    "var2": "cheksiz va chekli muddatli",
+    "var3": "faqat uzoq muddatli",
+    "var4": "aniq va aniq emas muddatli"
+  },
+  {
+    "number": "4.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Xotira ierarxiyasi bo'yicha, eng qimmat tezkor va qimmat xotira",
+    "answer": "#protsessor registrlari",
+    "var2": "tashqi xotira",
+    "var3": "elektron disklar",
+    "var4": "asosiy xotira"
+  },
+  {
+    "number": "5.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Ochiq kodli OT larda",
+    "answer": "#tizim kodlari ochiq, ixtiyoriy foydalanuvchi uni o'zgartirishi mumkin",
+    "var2": "tizim kodlari ochiq, ammo ularni o'zgar-tirish mumkin emas",
+    "var3": "dastur kodlari ochiq emas",
+    "var4": "tizim kodlari faqat tizim mualliflari uchun ochiq"
+  },
+  {
+    "number": "6.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Xotiraning ma`lumotlar joylashadigan bo'limi?",
+    "answer": "#segment deyiladi",
+    "var2": "stek deyiladi",
+    "var3": "sahifa deyiladi",
+    "var4": "overley deyiladi"
+  },
+  {
+    "number": "7.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Dasturiy ta`minot quyidagi bo'limlardan iborat",
+    "answer": "#asos dasturiy ta`minot, tizimli dasturiy ta`minot, xizmatchi dasturiy ta`minot, amaliy dasturiy ta`minot",
+    "var2": "tizimli dasturiy ta`minot",
+    "var3": "asos dasturiy ta`minot, tizimli dasturiy ta`minot",
+    "var4": "asos dasturiy ta'minot"
+  },
+  {
+    "number": "8.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Dastur algoritmlarda, ishlov beriladigan massivlarda amal va kattaliklardan foydalanish chastotasiga qarab, funktsiyalarni ajratishga asoslangan printsip",
+    "answer": "#chastota printsipi",
+    "var2": "xavfsizlik printsipi",
+    "var3": "modullilik printsipi",
+    "var4": "generatsiya printsipi"
+  },
+  {
+    "number": "9.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Windows OT larining boshqa OT lardan printsipial farqi",
+    "answer": "#grafik interfeysi va bir nechta ilovalar bilan birgalikda ishlash",
+    "var2": "dialogli ish rejimi",
+    "var3": "hisoblashlar ishonchliligi",
+    "var4": "Komanda tili yo'qligi"
+  },
+  {
+    "number": "10.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Multidasturlash bu",
+    "answer": "#hisoblash jarayonning tashkil qilish usuli bo'lib, bitta protsessorda navbat bilan bir nechta dastur bajariladi",
+    "var2": "hisoblash jarayonning tashkil qilish usuli bo'lib, bitta protsessorda bir vaqtning o'zida bir nechta dastur bajariladi",
+    "var3": "hisoblash jarayonning tashkil qilish usuli bo'lib, bir nechta protsessorda bitta dastur bajariladi",
+    "var4": "hisoblash jarayonning tashkil qilish usuli bo'lib, bir necha protsessorda navbat bilan bir nechta dastur bajariladi"
+  },
+  {
+    "number": "11.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Amaliy dasturiy ta`minot - dasturlari",
+    "answer": "#aniq soxa masalalarini yechishni ta`minlovchi dastur-lardir",
+    "var2": "tizimga xizmat qilu-vchi dasturlar",
+    "var3": "interfeysni ta`minlovchi dasturlar",
+    "var4": "tizimni sozlovchi dasturlar"
+  },
+  {
+    "number": "12.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Qaysi vosita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin",
+    "answer": "#NTFS",
+    "var2": "BFS",
+    "var3": "FAT",
+    "var4": "JFS"
+  },
+  {
+    "number": "13.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Utilitalar bu shunday foydali dasturlarki",
+    "answer": "#xajmi kichik dasturlar bo'lib, apparat vositalar ishini boshqaradi, turli yordamchi funktsiyalarni, ishlovchanlik qobilyatini, sozlashni tekshiradi",
+    "var2": "faqat sozlaydi",
+    "var3": "apparat vositalar ishini kuzatadi",
+    "var4": "xizmat qiladi, ishlovchanligini tekshiradi"
+  },
+  {
+    "number": "14.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Fat fayl tizimida, mantiqiy disk:",
+    "answer": "#tizimli soxa va ma`lumotlar soxasiga bo'linadi",
+    "var2": "yuklanish qismlari",
+    "var3": "kataloglar soxasi va tizimli soxa",
+    "var4": "ma`lumotlar soxasi va kataloglarga bo'linadi"
+  },
+  {
+    "number": "15.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Windows NT/2000/XP ijro tizimi quyidagi komponentalardan iborat",
+    "answer": "#jarayonlar, virtual xotira, ob`ektlar dispetcheri, xavfsizlik monitori, kiritish chiqarish dispetcheri, lokal protseduralarni chaqirish vositasi",
+    "var2": "jarayonlar, virtual xotira, ob`ektlar dispetcheri",
+    "var3": "jarayonlar, virtual xotira, ob`ektlar kiritish chiqarish dispetcherlari",
+    "var4": "lokal protseduralarni chaqirish vositalari"
+  },
+  {
+    "number": "16.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Fayllar tuzilishining asosiy birligi nimalar",
+    "answer": "#ma`lumotlar",
+    "var2": "kataloglar",
+    "var3": "grafiklar",
+    "var4": "xotira"
+  },
+  {
+    "number": "17.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Quyidagi OT larning qaysi biri ko'p masalali va ko'p foydalanuvchili hisoblanadi",
+    "answer": "#UNIX",
+    "var2": "MS-DOS, MSX",
+    "var3": "OS YeS, OS/2",
+    "var4": "WINDOWS 95"
+  },
+  {
+    "number": "18.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "OT boshqaruvi ostida jarayonlar sonini o'zgartirmaydigan amallar",
+    "answer": "#ko'p martalik amallar",
+    "var2": "jarayon prioritetini o'zgartiruvchi amallar",
+    "var3": "tayyor holatga o'tkazuvchi amallar",
+    "var4": "bir martalik amallar"
+  },
+  {
+    "number": "19.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tarmoq operatsion tizimining qaysi qismi ilovalardan barcha so'rovlarni qabul qilib ularni analiz qiladi",
+    "answer": "#server qismi",
+    "var2": "kompyuterni lokal resurslarini boshqaruvchi vosita",
+    "var3": "klient qismi",
+    "var4": "kommunikatsion vositalar"
+  },
+  {
+    "number": "20.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Shaxsiy kompyuterning ta minoti qanday bo'limdan iborat",
+    "answer": "#uskunaviy va dasturiy ta minot",
+    "var2": "uskunaviy ta minot",
+    "var3": "interfeys",
+    "var4": "dasturiy ta minot"
+  },
+  {
+    "number": "21.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Protsessor vaqti",
+    "answer": "#chegaralangan resurs",
+    "var2": "doimiy resurs",
+    "var3": "vaqtinchalik resurs",
+    "var4": "chegaralanmagan resurs"
+  },
+  {
+    "number": "22.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Multidasturlash rejimida ishlaydigan operatsion tizimlar",
+    "answer": "#rivojlanish 3-davriga yuzaga keldi",
+    "var2": "rivojlanish 1-davriga yuzaga keldi",
+    "var3": "rivojlanish 4-davriga yu-zaga keldi",
+    "var4": "rivojlanish 2-davriga yu-zaga keldi"
+  },
+  {
+    "number": "23.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Kompyuter tarkibiga kiruvchi turli qurilmalarni boshqaruvchi maxsus dasturlar ..... .deb ataladi",
+    "answer": "#drayverlar",
+    "var2": "xizmatchi dasturlar",
+    "var3": "plug and play texnologiyasi",
+    "var4": "operatsion tizim"
+  },
+  {
+    "number": "24.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Foydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkon beradigan printsip",
+    "answer": "#standart xolatlar (po umol-chaniyu) printsipi",
+    "var2": "funktsional tanlanish printsipi",
+    "var3": "generatsiya printsipi",
+    "var4": "chastota printsipi"
+  },
+  {
+    "number": "25.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Qanday axborotlar se-curity accounts manag-er da saqlanadi",
+    "answer": "#foydalanuvchilarning qayd yo-zuvi haqidagi",
+    "var2": "Windows operatsion tizim foydalanuvchi-lari haqidagi",
+    "var3": "ma'lumotlar bazasidagi axborotlar",
+    "var4": "ro'yxatdan o'tgan foyda-lanuvchilar haqidagi"
+  },
+  {
+    "number": "26.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tarmoq operatsion tizimining qaysi qismi ma`lumotlarni adreslash, buferlash, va uzatilishidagi xavfsizlikni ta`minlaydi",
+    "answer": "#kommunikatsion vositalar",
+    "var2": "kompyuterni lokal resurslarini boshqaruvchi vosita",
+    "var3": "klient qismi",
+    "var4": "server qismi"
+  },
+  {
+    "number": "27.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tizimli dasturiy ta`minot bu",
+    "answer": "#kompyuter tizimining dastur-lari va bevosita apparat ta`minoti bilan o'zaro boglan-  ishini ta`minlaydi",
+    "var2": "amaliy masalalarni yechimini ta`minlaydi",
+    "var3": "kompyuter ishini nazorat qiladi",
+    "var4": "kompyuter qurilmalarini ishlashini ta`minlaydi"
+  },
+  {
+    "number": "28.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Monolit OT larda tuzilishi",
+    "answer": "# 2 ta bo'lakdan iborat (bosh dastur va protseduralar)",
+    "var2": "5 ta satxdan iborat",
+    "var3": "6 ta satxdan iborat (ko'p satxli dastur)",
+    "var4": "3 ta satxdan iborat (bosh dastur, protsedura va ser-vis dasturlari)"
+  },
+  {
+    "number": "29.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Zamonaviy OT larda xotira:",
+    "answer": "#segment sahifali bo'linadi",
+    "var2": "o'zgaruvchan bo'limlarga bo'linadi",
+    "var3": "qat`iy bo'limlarga bo'linadi",
+    "var4": "segmentlarga bo'linadi"
+  },
+  {
+    "number": "30.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Amaliy dasturiy ta`minot",
+    "answer": "#ma`lum ish joyida aniq ma-salalarni yechishga yordam beradigan dastur",
+    "var2": "hisoblash tizimini nazorat qiluvchi",
+    "var3": "stastikani olib beradi",
+    "var4": "qurilmalarni ishlatuvchi"
+  },
+  {
+    "number": "31.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Xotiraning fiksirlangan bo'limlarga bo'lishda",
+    "answer": "#xotira qat`iy o'lchamli bo'lak-larga oldindan bo'lingan bo'ladi",
+    "var2": "ma`lumotlar-fayllar bo'laklarga bo'linadi",
+    "var3": "ma`lumotlar xajmi bo'yicha joylashtirib boriladi",
+    "var4": "xotira sahifalarga bo'linadi"
+  },
+  {
+    "number": "32.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Multidasturlash bu",
+    "answer": "#hisoblash jarayonning tashkil qilish usuli bo'lib, bitta protsessorda navbat bilan bir nechta dastur bajariladi",
+    "var2": "hisoblash jarayonning tashkil qilish usuli bo'lib, bir necha protsessorda navbat bilan bir nechta dastur bajariladi",
+    "var3": "hisoblash jarayonning tashkil qilish usuli bo'lib, bir nechta protsessorda bitta dastur bajariladi",
+    "var4": "hisoblash jarayonning tashkil qilish usuli bo'lib, bitta protsessorda bir vaq-tning o'zida bir nechta dastur bajariladi"
+  },
+  {
+    "number": "33.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Matn muharriri Word bu",
+    "answer": "# amaliy dasturiy",
+    "var2": "asos dasturiy",
+    "var3": "xizmatchi dasturiy",
+    "var4": "tizimli dasturiy"
+  },
+  {
+    "number": "34.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Fragmentattsiya deb nimaga aytiladi",
+    "answer": "# xotira bo'limlarga ajratilganda qoladigan bo'l joyi",
+    "var2": "ma`lumotlarning bo'limlarga sigmay qolishi",
+    "var3": "xotiraning bo'limlarga ajralmay qolishi",
+    "var4": "xotiraning bir turi"
+  },
+  {
+    "number": "35.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Qaysi vosita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin",
+    "answer": "# NTFS",
+    "var2": "JFS",
+    "var3": "BFS",
+    "var4": "FAT"
+  },
+  {
+    "number": "36.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "mv buyrug'ug'i qanday vazifani bajaradi?",
+    "answer": "#Faylni qayta nomlash, nusxa olish",
+    "var2": "Faylni o'chirish",
+    "var3": "Katalogni nusxalash",
+    "var4": "Katalog yaratish"
+  },
+  {
+    "number": "37.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tizimli dasturiy taminot nechtaga bo'linadi",
+    "answer": "# 3",
+    "var2": "5",
+    "var3": "2",
+    "var4": "4"
+  },
+  {
+    "number": "38.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Windows server bu qaysi kompaniyaga tegishli",
+    "answer": "#Microsoft",
+    "var2": "IBM",
+    "var3": "Unix",
+    "var4": "PS/OS"
+  },
+  {
+    "number": "39.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Unix operatsion tizimi qachon yaratilgan",
+    "answer": "# 1960",
+    "var2": "1978",
+    "var3": "1995",
+    "var4": "1980"
+  },
+  {
+    "number": "40.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Unix operatsion tizimi qaysi laboratoriyada ishlab chiqilgan",
+    "answer": "# AT&T'S Bell laboratories",
+    "var2": "IBM laboratories",
+    "var3": "PS/OS laboratories",
+    "var4": "Solaris laboratories"
+  },
+  {
+    "number": "41.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Quyidagilardan qaysi biri Unix serverga o'xshash server operatsion tizim hisoblanadi",
+    "answer": "# Solarius, Linux",
+    "var2": "Microsoft server",
+    "var3": "PS/OS",
+    "var4": "IBM"
+  },
+  {
+    "number": "42.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Quyidagilardan qaysi biri Linux serveri hisoblanadi",
+    "answer": "# Ubuntu, Debian, CentOS",
+    "var2": "Ubuntu, IBMm Debian",
+    "var3": "Microsoft, Debian,",
+    "var4": "IBM, Microsoft, Oracle"
+  },
+  {
+    "number": "43.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan",
+    "answer": "# Canonical",
+    "var2": "Microsoft",
+    "var3": "IBM",
+    "var4": "Oracle"
+  },
+  {
+    "number": "44.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan",
+    "answer": "# Canonical",
+    "var2": "Microsoft",
+    "var3": "IBM",
+    "var4": "Oracle"
+  },
+  {
+    "number": "45.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Windows operatsion tizimida buyruqlar qatorini (cmd) qaysi klavishlar yordamida bosiladi",
+    "answer": "# Win + R",
+    "var2": "Win + F",
+    "var3": "Win + D",
+    "var4": "Win + T"
+  },
+  {
+    "number": "46.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizim nima",
+    "answer": "# operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi",
+    "var2": "Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi",
+    "var3": "Amaliy dasturlar jamlanmasi",
+    "var4": "Multimediyali dasturlar jamlanmasi"
+  },
+  {
+    "number": "47.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizim asoson ...",
+    "answer": "# tizimli dasturlar jamlanmasi",
+    "var2": "amalaiy dasturlar jamlanmasi",
+    "var3": "multimediyali qurilmalar jamlanmasi",
+    "var4": "qobiqdan iborat"
+  },
+  {
+    "number": "48.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimda hisoblash tizimining tarkibi bu",
+    "answer": "# Konfiguratsiya",
+    "var2": "Drayverlar",
+    "var3": "Aparat vositalar",
+    "var4": "amaliy dasturlar"
+  },
+  {
+    "number": "49.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi",
+    "answer": "# Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi",
+    "var2": "Amaliy dasturlar, Yadro, Fayl tizimi",
+    "var3": "Kamanda prosessori, konfiguratsiya",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "50.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimning asosiy tashkil etuvchisi yadro bu",
+    "answer": "#masalalar va resurslarni boshqarish, sinxronlashtirish va o'zaro bog'lanish bo'yicha asos funksiyalarni ta'minlaydi.",
+    "var2": "foydalanuvchi talabi bo'yicha mos xizmatlarni chaqirishni ta'minlaydi",
+    "var3": "tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi.",
+    "var4": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+  },
+  {
+    "number": "51.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu",
+    "answer": "# tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi.",
+    "var2": "masalalar va resurslarni boshqarish, sinxronlashtirish va o'zaro bog'lanish bo'yicha asos funksiyalarni ta'minlaydi.",
+    "var3": "foydalanuvchi talabi bo'yicha mos xizmatlarni chaqirishni ta'minlaydi",
+    "var4": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+  },
+  {
+    "number": "52.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu",
+    "answer": "# komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo'yicha mos xizmatlarni chaqirishni ta'minlaydi",
+    "var2": "masalalar va resurslarni boshqarish, sinxronlashtirish va o'zaro bog'lanish bo'yicha asos funksiyalarni ta'minlaydi.",
+    "var3": "tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi.",
+    "var4": "kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi."
+  },
+  {
+    "number": "53.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu",
+    "answer": "# kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.",
+    "var2": "masalalar va resurslarni boshqarish, sinxronlashtirish va o'zaro bog'lanish bo'yicha asos funksiyalarni ta'minlaydi.",
+    "var3": "tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi.",
+    "var4": "komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo'yicha mos   xizmatlarni chaqirishni ta'minlaydi"
+  },
+  {
+    "number": "54.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizim interfeysi bu",
+    "answer": "# Foydalanuvchi aloqa o'rnatadigan qulay qobiq",
+    "var2": "Drayverlar jamlanmasi",
+    "var3": "Fayl tizimi",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "55.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Buyruq interpretatori bu",
+    "answer": "# Dastur tilidan mashina tiliga o'giradi (Tarjimon)",
+    "var2": "Drayverlarni ishga tushiradi",
+    "var3": "Amaliy dasturlarni ishga tushiradi",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "56.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Kompyuter tashkil etuvchisi bu",
+    "answer": "# Turli xil qurilmalarni boshqarish dasturi",
+    "var2": "Multimediya qurilmalarni boshqarish",
+    "var3": "O'yinlarni yaratish dasturi",
+    "var4": "Tizimni boshqarish"
+  },
+  {
+    "number": "57.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimning rivojlanish tarixi 1 - avlod nechinchi yillarni o'z ichiga oladi.",
+    "answer": "# 1945 - 1955",
+    "var2": "1965 - 1975",
+    "var3": "1975 - 1985",
+    "var4": "1985 - 1995"
+  },
+  {
+    "number": "58.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimning rivojlanish tarixi 2 - avlod nechinchi yillarni o'z ichiga oladi.",
+    "answer": "# 1955 - 1965",
+    "var2": "1965 - 1975",
+    "var3": "1945 - 1955",
+    "var4": "1985 - 1995"
+  },
+  {
+    "number": "59.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimning rivojlanish tarixi 3 - avlod nechinchi yillarni o'z ichiga oladi.",
+    "answer": "# 1965 - 1980",
+    "var2": "1945 - 1955",
+    "var3": "1955 - 1965",
+    "var4": "1985 - 1995"
+  },
+  {
+    "number": "60.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimning rivojlanish tarixi 4 - avlod nechinchi yillarni o'z ichiga oladi.",
+    "answer": "# 1980 yildan to hozirgacha",
+    "var2": "1965 - 1980",
+    "var3": "1955 - 1965",
+    "var4": "1945 - 1955"
+  },
+  {
+    "number": "61.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan.",
+    "answer": "# Charles Babbage",
+    "var2": "Inix Helton",
+    "var3": "Shelton Holmz",
+    "var4": "Daniel Tompson"
+  },
+  {
+    "number": "62.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Qaysi avlod tizimlaridan boshlab operatsion tizimlar o'rnatila boshlagan.",
+    "answer": "# 2 - avlod",
+    "var2": "1 - avlod",
+    "var3": "3 - avlod",
+    "var4": "4 - avlod"
+  },
+  {
+    "number": "63.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Nechilchi yillardan boshlab paketli operatsion tizimlar ishlab chiqarilgan.",
+    "answer": "# 1960 yil",
+    "var2": "1945 yil",
+    "var3": "1985 yil",
+    "var4": "1970 yil"
+  },
+  {
+    "number": "64.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "4 - avlod kampyuterlariga qanday kompyuterlar kiradi",
+    "answer": "# Personal va super kompyuterlar",
+    "var2": "Lampali",
+    "var3": "Integral sxemali kompyuterlar",
+    "var4": "hali yaratilmagan"
+  },
+  {
+    "number": "65.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Multipleksing bu",
+    "answer": "# resurslar ishlashining ketma - ketligi va davomiyligi",
+    "var2": "Drayverlar jamlanmasi",
+    "var3": "amaliy dasturlar jamlanmasi",
+    "var4": "to'g'ri javob berilmagan"
+  },
+  {
+    "number": "66.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Multipleksing necha xil ko'rinishda bo'ladi",
+    "answer": "# 2",
+    "var2": "3",
+    "var3": "1",
+    "var4": "4"
+  },
+  {
+    "number": "67.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Multipleksingning ikki xil ko'rinishi bor bular",
+    "answer": "# Vaqtinchalik, Ajratilgan xotira",
+    "var2": "Ajratilmagan xotira, Doimiy xotira",
+    "var3": "Qobiq, Drayverlar",
+    "var4": "Interfeyslar, amaliy dasturlar"
+  },
+  {
+    "number": "68.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Trap bu",
+    "answer": "# operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi",
+    "var2": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi",
+    "var3": "Drayverlarni o'rnatadi",
+    "var4": "Qurilmalarni o'rnatadi"
+  },
+  {
+    "number": "69.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Boot Loader - bu",
+    "answer": "#Operasion tizimni yuklovchi - bu Boot Record va Sistem Bootstrap dasturli modulidir",
+    "var2": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi",
+    "var3": "Operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi",
+    "var4": "Qurilmalarni o'rnatadi"
+  },
+  {
+    "number": "70.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Interrupts (Uzilish) - bu",
+    "answer": "# bir dasturni bajarilishini hozirgi vaqtda yanada muhimroq boshqa dasturni tezkor bajarish maqsadida vaqtincha to'xtatilishidir",
+    "var2": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi",
+    "var3": "Operasion tizimni yuklovchi - bu Boot Record va Sistem Bootstrap dasturli modulidir",
+    "var4": "operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi"
+  },
+  {
+    "number": "71.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi",
+    "answer": "# bir vazifali , ko'p vazifali",
+    "var2": "bir vazifali",
+    "var3": "ko'p vazifali",
+    "var4": "ko'p foydalanuvchi"
+  },
+  {
+    "number": "72.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "O'zaro bog'lanish bo'yicha operatsion tizimlar sinflanishi",
+    "answer": "# bir foydalanuvchi va ko'p foydalanuvchi",
+    "var2": "bir vazifali , ko'p vazifali",
+    "var3": "ko'p vazifali",
+    "var4": "ko'p foydalanuvchi"
+  },
+  {
+    "number": "73.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Meynfraymlar bu",
+    "answer": "# OT lari kiritish/chiqarish amallari ko'p bo'lgan, bir vaqtda bajaradigan topshiriqlar to'plamiga ishlov berishga yo'naltirilgan",
+    "var2": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir.",
+    "var3": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir. Shuni aytish joizki, ularning o'lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda",
+    "var4": "Juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo'ljallangan bo'ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o'lchovli fazoda turli oqimlarning kechishini o'rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi."
+  },
+  {
+    "number": "74.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Mikrokompyuterlar bu",
+    "answer": "# Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir. Shuni aytish joizki, ularning o'lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda",
+    "var2": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir.",
+    "var3": "OT lari kiritish/chiqarish amallari ko'p bo'lgan, bir vaqtda bajaradigan topshiriqlar to'plamiga ishlov berishga yo'naltirilgan",
+    "var4": "juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo'ljallangan bo'ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o'lchovli fazoda turli oqimlarning kechishini o'rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi."
+  },
+  {
+    "number": "75.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Super komputerlar bu",
+    "answer": "# juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo'ljallangan bo'ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o'lchovli fazoda turli oqimlarning kechishini o'rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.",
+    "var2": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir.",
+    "var3": "OT lari kiritish/chiqarish amallari ko'p bo'lgan, bir vaqtda bajaradigan topshiriqlar to'plamiga ishlov berishga yo'naltirilgan",
+    "var4": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir. Shuni aytish joizki, ularning o'lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda"
+  },
+  {
+    "number": "76.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Minikompyuterlar - bu ...",
+    "answer": "# Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir. Shuni aytish joizki, ularning o'lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda",
+    "var2": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir.",
+    "var3": "OT lari kiritish/chiqarish amallari ko'p bo'lgan, bir vaqtda bajaradigan topshiriqlar to'plamiga ishlov berishga yo'naltirilgan",
+    "var4": "Juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo'ljallangan bo'ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o'lchovli fazoda turli oqimlarning kechishini o'rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi."
+  },
+  {
+    "number": "77.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimlar tuzilishiga ko'ra sinflanishi",
+    "answer": "# Monolit, ko'p sathli, Klient -Server, Mikro yadroli",
+    "var2": "Monolit, Ko'p sathli",
+    "var3": "Klient - server",
+    "var4": "Mikro yadroli"
+  },
+  {
+    "number": "78.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Monolit operatsion tizimlar bu",
+    "answer": "# bu biron bir aniq strukturaga ega bo'lmagan tuzilishga ega operatsion tizim hisoblanadi.",
+    "var2": "Faqat sever bilan ishlovchi OT",
+    "var3": "Faqat yadro bilan ishlovchi OT",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "79.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi",
+    "answer": "# linux",
+    "var2": "To'g'ri javob berilmagan",
+    "var3": "Windows",
+    "var4": "Solaris"
+  },
+  {
+    "number": "80.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tizimli chaqiruv-",
+    "answer": "# Operasion tizim va ishlayotgan dastur orasidagi interfeysni taminlab beradi",
+    "var2": "Xotiradan joy ajratib beradi",
+    "var3": "Xotirada saqlaydi",
+    "var4": "elektr manbaini ta'inlab beradi"
+  },
+  {
+    "number": "81.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizimga qo'yiladigan talablar bular",
+    "answer": "# Barcha javoblar to'g'ri",
+    "var2": "dasturlar va a'luotlarni himoyalash",
+    "var3": "Samaradorlik, Moslashuvchanlik, Yangilanish",
+    "var4": "Ishonchlilik, Qulaylilik, aniqlik"
+  },
+  {
+    "number": "82.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "BIOS bu",
+    "answer": "# Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi",
+    "var2": "Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi",
+    "var3": "amaliy dasturlarni boshqaradi",
+    "var4": "Barcha javoblar nato'g'ri"
+  },
+  {
+    "number": "83.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Drayverlar bu",
+    "answer": "#Tashqi qurilmalarning fiziki darajada ishlashini boshqaruvchi dasturlardir",
+    "var2": "Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi",
+    "var3": "amaliy dasturlarni boshqaradi",
+    "var4": "Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi"
+  },
+  {
+    "number": "84.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Bir masalali OT ga qaysilar kiradi",
+    "answer": "# MS-DOS, MSX",
+    "var2": "Windows, Unix, OS/2",
+    "var3": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "85.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Ko'p masalali OT ga qaysilar kiradi",
+    "answer": "# Windows, Unix, OS/2",
+    "var2": "MS-DOS, MSX",
+    "var3": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "86.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Bir foydalanuvchilik OT ga qaysilar kiradi",
+    "answer": "# MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi",
+    "var2": "Windows, Unix, OS/2",
+    "var3": "MS-DOS, MSX",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "87.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Ko'p foydalanuvchilik OT ga qaysilar kiradi",
+    "answer": "# Windows, Unix, OS/2",
+    "var2": "MS-DOS, MSX",
+    "var3": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "88.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Operatsion tizim qobiqlari",
+    "answer": "# Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini ta'inlab beruvchi dasturlar",
+    "var2": "Xotirani boshqarish qurilasi",
+    "var3": "Tashqi qurilmani boshqarish qurilmasi",
+    "var4": "To'g'ri javob berilmagan"
+  },
+  {
+    "number": "89.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi",
+    "answer": "# Paint, Adobe Photoshop",
+    "var2": "Word",
+    "var3": "Excel",
+    "var4": "MS-DOS, MSX"
+  },
+  {
+    "number": "90.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "FAT32, Ext2, NTFS - bu ...",
+    "answer": "# Paint, Adobe Photoshop",
+    "var2": "Word",
+    "var3": "Excel",
+    "var4": "MS-DOS, MSX"
+  },
+  {
+    "number": "91.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Windows operatsion tizimining boshqa operatsion tizimlardan tubdan farqi nimada?",
+    "answer": "# GUI va bir nechta dasturlarni ishlatish qobiliyati",
+    "var2": "Hisoblashning ishonchliligi",
+    "var3": "Buyruq tili yo'qligi",
+    "var4": "Dialog operatsiyasi yo'qligi"
+  },
+  {
+    "number": "92.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim",
+    "answer": "# OS / 2",
+    "var2": "QNX",
+    "var3": "UNIX",
+    "var4": "Win NT"
+  },
+  {
+    "number": "93.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:",
+    "answer": "#Bir martalik tarmoq OS va maxsus serverlarga ega OS",
+    "var2": "korporativ va mahalliy tarmoq",
+    "var3": "LAN va WAN",
+    "var4": "Korxona va bo'limlar tarmog'i"
+  },
+  {
+    "number": "94.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tarmoq operatsion tizimlarini yaratishda bir nechta yondashuvlar mavjud bular:",
+    "answer": "# Mahalliy operatsion tizimlar va qobiq, tarmoq funktsiyalari boshidanoq hisobga olingan",
+    "var2": "Mahalliy va Shell",
+    "var3": "Client va Server",
+    "var4": "Ob'ektga yo'naltirilgan yondashuv"
+  },
+  {
+    "number": "95.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tarmoq operatsion tizimining masofaviy manbalar va xizmatlarga kirishni ta'minlovchi qismi;",
+    "answer": "#Mijozlar qismi",
+    "var2": "Server qismi",
+    "var3": "Aloqa qismi",
+    "var4": "Mahalliy qism"
+  },
+  {
+    "number": "96.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "O'z resurslarini ommaviy ravishda taqdim etadigan tarmoq operatsion tizimining bir qismi;",
+    "answer": "# Server qismi",
+    "var2": "mijoz qismi",
+    "var3": "Aloqa qismi",
+    "var4": "Mahalliy qism"
+  },
+  {
+    "number": "97.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Tor ma'noda tarmoq operatsion tizimlari:",
+    "answer": "#Shaxsiy kompyuterning tarmoqda ishlashini ta'minlaydigan operatsion tizimlari",
+    "var2": "Xabar almashish va resurslarni umumiy qoidalar asosida almashish maqsadida o'zaro ta'sir qiluvchi alohida kompyuterlarning operatsion tizimlari to'plami - protokollar",
+    "var3": "Boshqa kompyuterga kirishga imkon beruvchi operatsion tizimlar",
+    "var4": "Operatsion tizimlari Boshqa kompyuterlarga resurslarni etkazib berish"
+  },
+  {
+    "number": "98.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Vazifalari: uni ko'rish, qo'shish, o'qish, yozish va o'zgartirish (NTFS fayl tizimida) bu",
+    "answer": "#standart qarorlari",
+    "var2": "Shaxsiy tasdiqlash",
+    "var3": "Maxsus tasdiqlashlar",
+    "var4": "Tashqi tasdiqlash"
+  },
+  {
+    "number": "99.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "NTFS fayl tizimi",
+    "answer": "# Yangi texnologik fayl tizimi",
+    "var2": "Juda ishonchli",
+    "var3": "disk maydonidan samarali foydalanadi",
+    "var4": "To'g'ri javob yo'q"
+  },
+  {
+    "number": "100.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Haqiqiy vaqtdagi operatsion tizimlar ana shunday tizimlardir bu",
+    "answer": "#Kiruvchi ishlarni belgilangan vaqt oralig'ida qayta ishlashni oshirib yubormaslik",
+    "var2": "Dastur ob'ektning hozirgi holatiga qarab tanlanadi",
+    "var3": "Dastur rejalashtirilgan ish jadvallari asosida tanlanadi",
+    "var4": "Har xil texnologik ob'ektlar va jarayonlarni boshqaradi"
+  },
+  {
+    "number": "101.",
+    "source": "Manba: ma'ruza matnlari",
+    "degree": "Qiyinlik darajasi - 2",
+    "question": "Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir",
+    "answer": "# MS DOS",
+    "var2": "OS / 2",
+    "var3": "Linux",
+    "var4": "OS EC"
+  },
+  {
+    "number": "",
+    "source": "102.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim",
+    "var2": "# OS / 2",
+    "var3": "QNX",
+    "var4": "UNIX"
+  },
+  {
+    "number": "",
+    "source": "103.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "UNIX operatsion tizimining osongina ko'chirilishi yoki ko'chirilish xususiyati sababi",
+    "var2": "# Operatsion tizim kodlari yuqori darajadagi tilda yozilgan (masalan, C)",
+    "var3": "kodlari assambleya tilida yozilgan",
+    "var4": "Ko'p foydalanuvchi tizimi"
+  },
+  {
+    "number": "",
+    "source": "104.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:",
+    "var2": "# Bir martalik tarmoq OT va maxsus serverlarga ega OT",
+    "var3": "korporativ va mahalliy tarmoq",
+    "var4": "LAN va WAN"
+  },
+  {
+    "number": "",
+    "source": "105.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tarmoq operatsion tizimlari ... .. qismlardan iborat",
+    "var2": "# To'rt",
+    "var3": "Ikki",
+    "var4": "Uch"
+  },
+  {
+    "number": "",
+    "source": "106.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tarmoq operatsion tizimi deganda keng tushuniladi",
+    "var2": "# Xabar almashish va resurslarni birgalikda ishlatish uchun o'zaro ta'sir qiluvchi individual kompyuterlarning operatsion tizimlari to'plami yagona qoidalar - protokollar",
+    "var3": "Shaxsiy kompyuterning uni tarmoqda ishlashini ta'minlaydigan operatsion tizimlari",
+    "var4": "Boshqa kompyuterga kirishga imkon beruvchi operatsion tizimlar"
+  },
+  {
+    "number": "",
+    "source": "107.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Foydalanuvchiga u yoki bu turga kirishga imkon beradigan huquqlar to'plami deyiladi (NTFS fayl tizimida)",
+    "var2": "# Shaxsiy ruxsatnomalar",
+    "var3": "standart qarorlari",
+    "var4": "Maxsus tasdiqlashlar"
+  },
+  {
+    "number": "",
+    "source": "108.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Fayllarni boshqarish tizimi quyidagi funksiyalarni bajaradi:",
+    "var2": "# fayl operatsiyalari va foydalanuvchi interfeysi funktsiyalari",
+    "var3": "diskdan tashqari qurilmalar bilan fayl sifatida ishlash",
+    "var4": "diskdan tashqari qurilmalar bilan ishlash jarayonlarni boshqaradi"
+  },
+  {
+    "number": "",
+    "source": "109.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Boshqarish mexanizmlari bilan protsessor vaqtining 90 foizini egallaydigan va nisbatan past ko'rsatkichlarga ega bo'lgan eng xavfsiz operatsion tizimlar quyidagilar:",
+    "var2": "# A sinf",
+    "var3": "sinf B",
+    "var4": "3-sinf"
+  },
+  {
+    "number": "",
+    "source": "110.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Yuqori mahsuldorlikka ega fayl tizimi",
+    "var2": "# HPFS",
+    "var3": "FAT",
+    "var4": "NTFS"
+  },
+  {
+    "number": "",
+    "source": "111.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi.",
+    "var2": "# Tizim maydoni va ma'lumotlar maydoni",
+    "var3": "Ma'lumotlar maydoni va kataloglari",
+    "var4": "Katalog maydoni va tizim maydoni"
+  },
+  {
+    "number": "",
+    "source": "112.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "FAT fayl tizimiga quyidagilar kiradi:",
+    "var2": "# Barcha javoblar to'g'ri",
+    "var3": "manzilli mantiqiy disk bo'limlari",
+    "var4": "Diskdagi bo'sh joy"
+  },
+  {
+    "number": "",
+    "source": "113.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Fayl bilan ishlash dasturi",
+    "var2": "# Fayl menejeri",
+    "var3": "dastur menejeri",
+    "var4": "xotira menejeri"
+  },
+  {
+    "number": "",
+    "source": "114.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Zamonaviy fayllarni boshqarish tizimlari",
+    "var2": "# NTFS",
+    "var3": "FAT",
+    "var4": "Super FAT"
+  },
+  {
+    "number": "",
+    "source": "115.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Fayl tizimidan foydalanish",
+    "var2": "# Ma'lumotlarni qayta ishlash dasturlari bilan bog'laning va disk maydonini markaziy ravishda taqsimlash",
+    "var3": "disk maydoni ajratish",
+    "var4": "Ma'lumotlar bazasi bilan bog'lash"
+  },
+  {
+    "number": "",
+    "source": "116.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Zamonaviy operatsion tizimlarda xotira:",
+    "var2": "# Har bir segment uchun sahifalar bo'limlari",
+    "var3": "O'zgaruvchan bo'limlarda",
+    "var4": "segmentlari"
+  },
+  {
+    "number": "",
+    "source": "117.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ochiq manbali operatsion tizimlarda",
+    "var2": "# Tizim kodlari ochiq, istalgan foydalanuvchi uni o'zgartirishi mumkin",
+    "var3": "Dastur kodlari ochiq, ammo ularni o'zgartirish mumkin emas",
+    "var4": "Tizim kodlari faqat mualliflar uchun ochiq"
+  },
+  {
+    "number": "",
+    "source": "118.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ma'lumotlarning xotirada joylashishi",
+    "var2": "#Segment",
+    "var3": "Yig'ma",
+    "var4": "Qatlam"
+  },
+  {
+    "number": "",
+    "source": "119.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Katta hajmga, samarali foydalanishga va alohida avtonom energiya manbasiga ega bo'lgan xotira deyiladi",
+    "var2": "#Doimiy xotira",
+    "var3": "Ikkilamchi xotira",
+    "var4": "Protsessor registrlari"
+  },
+  {
+    "number": "",
+    "source": "120.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Zamonaviy operatsion tizimlardagi manbalar quyidagilarni anglatadi:",
+    "var2": "# Protsessor vaqti, xotira, kirish va chiqish kanallari, tashqi qurilmalar, dastur modullari, axborot resurslari, xabarlar va signallar",
+    "var3": "Dastur modullari",
+    "var4": "Xabarlar va signallar"
+  },
+  {
+    "number": "",
+    "source": "121.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ierarxiyadagi eng tezkor va eng qimmat xotira",
+    "var2": "# Protsessor registrlari",
+    "var3": "Elektron disklar",
+    "var4": "Asosiy xotira"
+  },
+  {
+    "number": "",
+    "source": "122.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Resurslarni samarali boshqarish uchun operatsion tizimlar:",
+    "var2": "# Resurslarni rejalashtirish va resurslar holatini kuzatish",
+    "var3": "Dasturlarni boshqarish",
+    "var4": "Resurslarni ajratish"
+  },
+  {
+    "number": "",
+    "source": "123.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimning asosiy tarkibiy qismlaridan biri - yadro quyidagi funktsiyalarni bajaradi:",
+    "var2": "# Vazifalar va manbalarni boshqaradi",
+    "var3": "Buyruqlarni qabul qiladi va qayta ishlaydi",
+    "var4": "Tashqi qurilmalar yordamida ma'lumotlarni kiritish va chiqarishni amalga oshiradi"
+  },
+  {
+    "number": "",
+    "source": "124.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Hisoblash tizimini boshqarish jarayonlari ma'lum vaqt chegaralarini qondiradigan operatsion tizimlar",
+    "var2": "# Haqiqiy vaqt rejimida ishlaydigan operatsion tizimlar",
+    "var3": "Ommaviy rejimda ishlaydigan operatsion tizimlar",
+    "var4": "Tarqatilgan operatsion tizimlar"
+  },
+  {
+    "number": "",
+    "source": "125.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ko'p dasturli va ko'p foydalanuvchili operatsion tizimlar",
+    "var2": "# UNIX operatsion tizimlari",
+    "var3": "MS DOS",
+    "var4": "Win 3x"
+  },
+  {
+    "number": "",
+    "source": "126.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Mikroyadorli operatsion tizimlarida mikroyadro quyidagi funktsiyalarni o'z ichiga oladi:",
+    "var2": "# Minimal talab qilinadigan xususiyatlar",
+    "var3": "Operatsion tizimni yuklash funktsiyalari",
+    "var4": "Xotirani ajratish funktsiyalari"
+  },
+  {
+    "number": "",
+    "source": "127.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Modulli printsip yordamida yaratilgan operatsion tizimlarda dastur quyidagilardan iborat:",
+    "var2": "# Mustaqil qismlardan (modullardan)",
+    "var3": "Bitta moduldan",
+    "var4": "O'zaro bog'liq bo'lgan bir nechta qismlar"
+  },
+  {
+    "number": "",
+    "source": "128.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Kasperskiy antivirus dasturining korporativ versiyasi, u yirik tarmoqlar uchun mo'ljallangan va ularning xavfsizligini quyidagi xususiyatlar bilan ta'minlaydi:",
+    "var2": "# Markazlashtirilgan masofadan boshqarish pultini taqdim etadi, to'liq statistik ma'lumotlarni taqdim etadi va katta hajmdagi ma'lumotlar bilan ishlaydi (ma'lumotlar bazasi bilan)",
+    "var3": "Qulay o'rnatish va o'rnatish",
+    "var4": "Cheklangan resurslar bilan ishlaydi"
+  },
+  {
+    "number": "",
+    "source": "129.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Kasperskiy antivirus dasturining shaxsiy versiyasi quyidagi xususiyatlarga ega",
+    "var2": "# Qulay o'rnatish va sozlash",
+    "var3": "Cheklangan resurslar bilan ishlaydi",
+    "var4": "Katta hajmdagi ma'lumotlar bazalari bilan ishlaydi"
+  },
+  {
+    "number": "",
+    "source": "130.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ajratilgan birliklar zaxiralari uchun resurslar ham topiladi, shuning uchun ular:",
+    "var2": "# Muayyan qoidalarga muvofiq tarqatiladi",
+    "var3": "Muayyan algoritm bo'yicha taqsimlanadi",
+    "var4": "Rejaga muvofiq"
+  },
+  {
+    "number": "",
+    "source": "131.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tizimda paydo bo'lgan har bir yangi jarayon quyidagicha davom etadi:",
+    "var2": "# Tayyor holatda",
+    "var3": "Ijro holatida",
+    "var4": "Vaziyatni to'xtatish"
+  },
+  {
+    "number": "",
+    "source": "132.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Jarayon quyidagi sabablarga ko'ra ishlaydigan holatdan chiqadi:",
+    "var2": "# Barcha javoblar to'g'ri",
+    "var3": "operatsion tizimlari jarayonni to'xtatganda",
+    "var4": "Vaqt bo'limi tugaganda"
+  },
+  {
+    "number": "",
+    "source": "133.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tizimdagi jarayonlar sonini o'zgartiradigan operatsiyalar",
+    "var2": "# Bir martalik operatsiyalar",
+    "var3": "Qayta foydalaniladigan operatsiyalar",
+    "var4": "ustuvor operatsiyalar"
+  },
+  {
+    "number": "",
+    "source": "134.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ushbu operatsion tizimlarning qaysi biri ochiq manba hisoblanadi",
+    "var2": "# Linux",
+    "var3": "MS DOS",
+    "var4": "UNIX"
+  },
+  {
+    "number": "",
+    "source": "135.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Protsessor vaqti:",
+    "var2": "# cheklangan resurs",
+    "var3": "Cheksiz resurs",
+    "var4": "Doimiy manba"
+  },
+  {
+    "number": "",
+    "source": "136.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Xotirani sobit bo'limlarga ajratishda",
+    "var2": "# Xotira oldindan aniq o'lchamdagi aniq bo'limlarga bo'linadi",
+    "var3": "Ma'lumotlar qismli fayllarga bo'linadi",
+    "var4": "Axborot hajmi bo'yicha joylashtirilgan"
+  },
+  {
+    "number": "",
+    "source": "137.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "NTFS fayllik tizimi nechta bitli prottsessor-lar bilan ishlaydi?",
+    "var2": "# 16 va 32",
+    "var3": "8 va 16",
+    "var4": "32"
+  },
+  {
+    "number": "",
+    "source": "138.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Xotira ierarxiyasi bo'yicha, eng qimmat tezkor va qimmat xotira",
+    "var2": "#protsessor registrlari",
+    "var3": "tashqi xotira",
+    "var4": "elektron disklar"
+  },
+  {
+    "number": "",
+    "source": "139.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Dasturiy ta`minot quyidagi bo'limlardan iborat",
+    "var2": "#asos dasturiy ta`minot, tizimli dasturiy ta`minot, xizmatchi dasturiy ta`minot, amaliy dasturiy ta`minot",
+    "var3": "tizimli dasturiy ta`minot",
+    "var4": "asos dasturiy ta`minot, tizimli dasturiy ta`minot"
+  },
+  {
+    "number": "",
+    "source": "140.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Windows OT larining boshqa OT lardan printsipial farqi",
+    "var2": "#grafik interfeysi va bir nechta ilovalar bilan birgalikda ishlash",
+    "var3": "dialogli ish rejimi",
+    "var4": "hisoblashlar ishonchliligi"
+  },
+  {
+    "number": "",
+    "source": "141.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Amaliy dasturiy ta`minot - dasturlari",
+    "var2": "#aniq soha masalalarini yechishni ta`minlovchi dastur-lardir",
+    "var3": "tizimga xizmat qilu-vchi dasturlar",
+    "var4": "interfeysni ta`minlovchi dasturlar"
+  },
+  {
+    "number": "",
+    "source": "142.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Qaysi vosita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin",
+    "var2": "#NTFS",
+    "var3": "BFS",
+    "var4": "FAT"
+  },
+  {
+    "number": "",
+    "source": "143.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Windows NT/2000/XP ijro tizimi quyidagi komponentalardan iborat",
+    "var2": "#jarayonlar, virtual xotira, ob`ektlar dispetcheri, xavfsizlik monitori, kiritish chiqarish dispetcheri, lokal protseduralarni chaqirish vositasi",
+    "var3": "jarayonlar, virtual xotira, ob`ektlar dispetcheri",
+    "var4": "jarayonlar, virtual xotira, ob`ektlar kiritish chiqarish dispetcherlari"
+  },
+  {
+    "number": "",
+    "source": "144.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Quyidagi OT larning qaysi biri ko'p masalali va ko'p foydalanuvchili hisoblanadi",
+    "var2": "#UNIX",
+    "var3": "MS-DOS, MSX",
+    "var4": "OS YeS, OS/2"
+  },
+  {
+    "number": "",
+    "source": "145.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tarmoq operatsion tizimining qaysi qismi ilovalardan barcha so'rovlarni qabul qilib ularni analiz qiladi",
+    "var2": "#server qismi",
+    "var3": "kompyuterni lokal resurslarini boshqaruvchi vosita",
+    "var4": "klient qismi"
+  },
+  {
+    "number": "",
+    "source": "146.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Protsessor vaqti",
+    "var2": "#chegaralangan resurs",
+    "var3": "doimiy resurs",
+    "var4": "vaqtinchalik resurs"
+  },
+  {
+    "number": "",
+    "source": "147.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Multidasturlash rejimida ishlaydigan operatsion tizimlar",
+    "var2": "#rivojlanish 3-davriga yuzaga keldi",
+    "var3": "rivojlanish 1-davriga yuzaga keldi",
+    "var4": "rivojlanish 4-davriga yu-zaga keldi"
+  },
+  {
+    "number": "",
+    "source": "148.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Foydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkon beradigan printsip",
+    "var2": "#standart xolatlar (po umol-chaniyu) printsipi",
+    "var3": "funktsional tanlanish printsipi",
+    "var4": "generatsiya printsipi"
+  },
+  {
+    "number": "",
+    "source": "149.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Qanday axborotlar security accounts manager da saqlanadi",
+    "var2": "#foydalanuvchilarning qayd yo-zuvi haqidagi",
+    "var3": "Windows operatsion tizim foydalanuvchi-lari haqidagi",
+    "var4": "ma'lumotlar bazasidagi axborotlar"
+  },
+  {
+    "number": "",
+    "source": "150.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tizimli dasturiy ta`minot bu",
+    "var2": "#kompyuter tizimining dastur-lari va bevosita apparat ta`minoti bilan o'zaro boglan-ishini ta`minlaydi",
+    "var3": "amaliy masalalarni yechimini ta`minlaydi",
+    "var4": "kompyuter ishini nazorat qiladi"
+  },
+  {
+    "number": "",
+    "source": "151.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Monolit OT larda tuzilishi",
+    "var2": "# 2 ta bo'lakdan iborat (bosh dastur va protseduralar)",
+    "var3": "5 ta satxdan iborat",
+    "var4": "6 ta satxdan iborat (ko'p satxli dastur)"
+  },
+  {
+    "number": "",
+    "source": "152.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Amaliy dasturiy ta`minot",
+    "var2": "#ma`lum ish joyida aniq ma-salalarni yechishga yordam beradigan dastur",
+    "var3": "hisoblash tizimini nazorat qiluvchi",
+    "var4": "stastikani olib beradi"
+  },
+  {
+    "number": "",
+    "source": "153.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Multidasturlash bu",
+    "var2": "# hisoblash jarayonning tashkil qilish usuli bo'lib, bitta protsessorda navbat bilan bir nechta dastur bajariladi",
+    "var3": "hisoblash jarayonning tashkil qilish usuli bo'lib, bir necha protsessorda navbat bilan bir nechta dastur bajariladi",
+    "var4": "hisoblash jarayonning tashkil qilish usuli bo'lib, bir nechta protsessorda bitta dastur bajariladi"
+  },
+  {
+    "number": "",
+    "source": "154.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Matn redaktori Word bu",
+    "var2": "# amaliy dasturiy",
+    "var3": "asos dasturiy",
+    "var4": "xizmatchi dasturiy"
+  },
+  {
+    "number": "",
+    "source": "155.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Qaysi vosita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin",
+    "var2": "# NTFS",
+    "var3": "JFS",
+    "var4": "BFS"
+  },
+  {
+    "number": "",
+    "source": "156.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tizimli dasturiy taminot nechtaga bo'linadi",
+    "var2": "# 3",
+    "var3": "5",
+    "var4": "2"
+  },
+  {
+    "number": "",
+    "source": "157.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Windows server bu qaysi kompaniyaga tegishli",
+    "var2": "#Microsoft",
+    "var3": "IBM",
+    "var4": "Unix"
+  },
+  {
+    "number": "",
+    "source": "158.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Quyidagilardan qaysi biri Linux serveri hisoblanadi",
+    "var2": "# Ubuntu, Debian, CentOS",
+    "var3": "Ubuntu, IBMm Debian",
+    "var4": "Microsoft, Debian,"
+  },
+  {
+    "number": "",
+    "source": "159.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan",
+    "var2": "# Canonical",
+    "var3": "Microsoft",
+    "var4": "IBM"
+  },
+  {
+    "number": "",
+    "source": "160.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizim nima",
+    "var2": "# operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi",
+    "var3": "Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi",
+    "var4": "Amaliy dasturlar jamlanmasi"
+  },
+  {
+    "number": "",
+    "source": "161.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizim asoson ...",
+    "var2": "# tizimli dasturlar jamlanmasi",
+    "var3": "Amalaiy dasturlar jamlanmasi",
+    "var4": "Multimediyali qurilmalar jamlanmasi"
+  },
+  {
+    "number": "",
+    "source": "162.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimda hisoblash tizimining tarkibi bu",
+    "var2": "# Konfiguratsiya",
+    "var3": "Drayverlar",
+    "var4": "Aparat vositalar"
+  },
+  {
+    "number": "",
+    "source": "163.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi",
+    "var2": "# Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi",
+    "var3": "Amaliy dasturlar, Yadro, Fayl tizimi",
+    "var4": "Kamanda prosessori, konfiguratsiya"
+  },
+  {
+    "number": "",
+    "source": "164.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimning asosiy tashkil etuvchisi yadro bu",
+    "var2": "#masalalar va resurslarni boshqarish, sinxronlashtirish va o'zaro bog'lanish bo'yicha asos funksiyalarni ta'minlaydi.",
+    "var3": "foydalanuvchi talabi bo'yicha mos xizmatlarni chaqirishni ta'minlaydi",
+    "var4": "tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi."
+  },
+  {
+    "number": "",
+    "source": "165.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu",
+    "var2": "# tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi.",
+    "var3": "masalalar va resurslarni boshqarish, sinxronlashtirish va o'zaro bog'lanish bo'yicha asos funksiyalarni ta'minlaydi.",
+    "var4": "foydalanuvchi talabi bo'yicha mos xizmatlarni chaqirishni ta'minlaydi"
+  },
+  {
+    "number": "",
+    "source": "166.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu",
+    "var2": "# komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo'yicha mos xizmatlarni chaqirishni ta'minlaydi",
+    "var3": "masalalar va resurslarni boshqarish, sinxronlashtirish va o'zaro bog'lanish bo'yicha asos funksiyalarni ta'minlaydi.",
+    "var4": "tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi."
+  },
+  {
+    "number": "",
+    "source": "167.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu",
+    "var2": "# kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.",
+    "var3": "masalalar va resurslarni boshqarish, sinxronlashtirish va o'zaro bog'lanish bo'yicha asos funksiyalarni ta'minlaydi.",
+    "var4": "tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi."
+  },
+  {
+    "number": "",
+    "source": "168.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizim interfeysi bu",
+    "var2": "# Foydalanuvchi aloqa o'rnatadigan qulay qobiq",
+    "var3": "Drayverlar jamlanmasi",
+    "var4": "Fayl tizimi"
+  },
+  {
+    "number": "",
+    "source": "169.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Buyruq interpretatori bu",
+    "var2": "# Dastur tilidan mashina tiliga o'giradi (Tarjimon)",
+    "var3": "Drayverlarni ishga tushiradi",
+    "var4": "Amaliy dasturlarni ishga tushiradi"
+  },
+  {
+    "number": "",
+    "source": "170.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Kompyuter tashkil etuvchisi bu",
+    "var2": "# Turli xil qurilmalarni boshqarish dasturi",
+    "var3": "Multimediya qurilmalarni boshqarish",
+    "var4": "O'yinlarni yaratish dasturi"
+  },
+  {
+    "number": "",
+    "source": "171.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimning rivojlanish tarixi 2-avlod nechinchi yillarni o'z ichiga oladi.",
+    "var2": "# 1955 - 1965",
+    "var3": "1965 - 1975",
+    "var4": "1945 - 1955"
+  },
+  {
+    "number": "",
+    "source": "172.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimning rivojlanish tarixi 3 - avlod nechinchi yillarni o'z ichiga oladi.",
+    "var2": "# 1965 - 1980",
+    "var3": "1945 - 1955",
+    "var4": "1955 - 1965"
+  },
+  {
+    "number": "",
+    "source": "173.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimning rivojlanish tarixi 4 - avlod nechinchi yillarni o'z ichiga oladi.",
+    "var2": "# 1980 yildan to hozirgacha",
+    "var3": "1965 - 1980",
+    "var4": "1955 - 1965"
+  },
+  {
+    "number": "",
+    "source": "174.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan.",
+    "var2": "# Charles Babbage",
+    "var3": "Inix Helton",
+    "var4": "Shelton Holmz"
+  },
+  {
+    "number": "",
+    "source": "175.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "4 - avlod kampyuterlariga qanday kompyuterlar kiradi",
+    "var2": "# Personal va super kompyuterlar",
+    "var3": "Lampali",
+    "var4": "Integral sxemali kompyuterlar"
+  },
+  {
+    "number": "",
+    "source": "176.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Multipleksing bu",
+    "var2": "# resurslar ishlashining ketma - ketligi va davomiyligi",
+    "var3": "Drayverlar jamlanmasi",
+    "var4": "amaliy dasturlar jamlanmasi"
+  },
+  {
+    "number": "",
+    "source": "177.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Multipleksingning ikki xil ko'rinishi bor bular",
+    "var2": "# Vaqtinchalik, Ajratilgan xotira",
+    "var3": "Ajratilmagan xotira, Doimiy xotira",
+    "var4": "Qobiq, Drayverlar"
+  },
+  {
+    "number": "",
+    "source": "178.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Boot Loader - bu",
+    "var2": "#Operasion tizimni yuklovchi - bu Boot Record va Sistem Bootstrap dasturli modulidir",
+    "var3": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi",
+    "var4": "operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi"
+  },
+  {
+    "number": "",
+    "source": "179.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Interrupts (Uzilish) - bu",
+    "var2": "# bir dasturni bajarilishini hozirgi vaqtda yanada muhimroq boshqa dasturni tezkor bajarish maqsadida vaqtincha to'xtatilishidir",
+    "var3": "Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi",
+    "var4": "Operasion tizimni yuklovchi - bu Boot Record va Sistem Bootstrap dasturli modulidir"
+  },
+  {
+    "number": "",
+    "source": "180.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi",
+    "var2": "# bir vazifali , ko'p vazifali",
+    "var3": "bir vazifali",
+    "var4": "ko'p vazifali"
+  },
+  {
+    "number": "",
+    "source": "181.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Meynfraymlar bu",
+    "var2": "# OT lari kiritish/chiqarish amallari ko'p bo'lgan, bir vaqtda bajaradigan topshiriqlar to'plamiga ishlov berishga yo'naltirilgan",
+    "var3": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir.",
+    "var4": "Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog'ona pastdir. Shuni aytish joizki, ularning o'lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda"
+  },
+  {
+    "number": "",
+    "source": "182.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimlar tuzilishiga ko'ra sinflanishi",
+    "var2": "# Monolit, ko'p sathli, Klient -Server, Mikro yadroli",
+    "var3": "Monolit, Ko'p sathli",
+    "var4": "Klient - server"
+  },
+  {
+    "number": "",
+    "source": "183.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Monolit operatsion tizimlar bu",
+    "var2": "# bu biron bir aniq strukturaga ega bo'lmagan tuzilishga ega operatsion tizim hisoblanadi.",
+    "var3": "Faqat sever bilan ishlovchi OT",
+    "var4": "Faqat yadro bilan ishlovchi OT"
+  },
+  {
+    "number": "",
+    "source": "184.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi",
+    "var2": "# linux",
+    "var3": "To'g'ri javob berilmagan",
+    "var4": "Windows"
+  },
+  {
+    "number": "",
+    "source": "185.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizimga qo'yiladigan talablar bular",
+    "var2": "# Barcha javoblar to'g'ri",
+    "var3": "dasturlar va a'luotlarni himoyalash",
+    "var4": "Samaradorlik, Moslashuvchanlik, Yangilanish"
+  },
+  {
+    "number": "",
+    "source": "186.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "BIOS bu",
+    "var2": "# Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi",
+    "var3": "Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi",
+    "var4": "amaliy dasturlarni boshqaradi"
+  },
+  {
+    "number": "",
+    "source": "187.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Drayverlar bu",
+    "var2": "#Tashqi qurilmalarning fiziki darajada ishlashini boshqaruvchi dasturlardir",
+    "var3": "Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi",
+    "var4": "amaliy dasturlarni boshqaradi"
+  },
+  {
+    "number": "",
+    "source": "188.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Bir masalali OT ga qaysilar kiradi",
+    "var2": "# MS-DOS, MSX",
+    "var3": "Windows, Unix, OS/2",
+    "var4": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"
+  },
+  {
+    "number": "",
+    "source": "189.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ko'p masalali OT ga qaysilar kiradi",
+    "var2": "# Windows, Unix, OS/2",
+    "var3": "MS-DOS, MSX",
+    "var4": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"
+  },
+  {
+    "number": "",
+    "source": "190.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Bir foydalanuvchilik OT ga qaysilar kiradi",
+    "var2": "# MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi",
+    "var3": "Windows, Unix, OS/2",
+    "var4": "MS-DOS, MSX"
+  },
+  {
+    "number": "",
+    "source": "191.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Ko'p foydalanuvchilik OT ga qaysilar kiradi",
+    "var2": "# Windows, Unix, OS/2",
+    "var3": "MS-DOS, MSX",
+    "var4": "MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi"
+  },
+  {
+    "number": "",
+    "source": "192.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Operatsion tizim qobiqlari",
+    "var2": "# Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini ta'inlab beruvchi dasturlar",
+    "var3": "Xotirani boshqarish qurilasi",
+    "var4": "Tashqi qurilmani boshqarish qurilmasi"
+  },
+  {
+    "number": "",
+    "source": "193.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi",
+    "var2": "# Paint, Adobe Photoshop",
+    "var3": "Word",
+    "var4": "Excel"
+  },
+  {
+    "number": "",
+    "source": "194.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "FAT32, Ext2, NTFS - bu ...",
+    "var2": "# Paint, Adobe Photoshop",
+    "var3": "Word",
+    "var4": "Excel"
+  },
+  {
+    "number": "",
+    "source": "195.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim",
+    "var2": "# OS / 2",
+    "var3": "QNX",
+    "var4": "UNIX"
+  },
+  {
+    "number": "",
+    "source": "196.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi:",
+    "var2": "#Bir martalik tarmoq OS va maxsus serverlarga ega OS",
+    "var3": "korporativ va mahalliy tarmoq",
+    "var4": "LAN va WAN"
+  },
+  {
+    "number": "",
+    "source": "197.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "NTFS fayl tizimi",
+    "var2": "# Yangi texnologik fayl tizimi",
+    "var3": "Juda ishonchli",
+    "var4": "disk maydonidan samarali foydalanadi"
+  },
+  {
+    "number": "",
+    "source": "198.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir",
+    "var2": "# MS DOS",
+    "var3": "OS / 2",
+    "var4": "OS EC"
+  },
+  {
+    "number": "",
+    "source": "199.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim",
+    "var2": "# OS / 2",
+    "var3": "QNX",
+    "var4": "UNIX"
+  },
+  {
+    "number": "",
+    "source": "200.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Tarmoq operatsion tizimlari ... .. qismlardan iborat",
+    "var2": "# To'rt",
+    "var3": "Ikki",
+    "var4": "Uch"
+  },
+  {
+    "number": "",
+    "source": "201.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "Yuqori mahsuldorlikka ega fayl tizimi",
+    "var2": "# HPFS",
+    "var3": "FAT",
+    "var4": "NTFS"
+  },
+  {
+    "number": "",
+    "source": "202.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi.",
+    "var2": "# Tizim maydoni va ma'lumotlar maydoni",
+    "var3": "Ma'lumotlar maydoni va kataloglari",
+    "var4": "Katalog maydoni va tizim maydoni"
+  },
+  {
+    "number": "",
+    "source": "203.",
+    "degree": "Manba: ma'ruza matnlari",
+    "question": "Qiyinlik darajasi - 2",
+    "answer": "FAT fayl tizimiga quyidagilar kiradi:",
+    "var2": "# Barcha javoblar to'g'ri",
+    "var3": "Manzilli mantiqiy disk bo'limlari",
+    "var4": "Diskdagi bo'sh joy"
+  }
+]
