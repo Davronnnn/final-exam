@@ -10,13 +10,12 @@ input.addEventListener('keyup', (e) => {
 		question.question.toLowerCase().includes(inputValue.toLowerCase())
 	);
 	answer.innerHTML = '';
-	if (result) {
-		result.forEach((question) => {
-			answer.innerHTML += `
+
+	result.forEach((question) => {
+		answer.innerHTML += `
             <div class='answer'>
                 <p class='answer-question'>${question.number} ${question.question}</p>
                 <li> <strong> Javob:</strong> ${question.answer}</li>
             </div>`;
-		});
-	}
+	});
 });
